@@ -10,7 +10,6 @@ bs4
 
 # Files
 
-def Funcion_extrae_valores():
     """
     esta función extrae valores en función a  las etiquetas y retorna una dataframe
     
