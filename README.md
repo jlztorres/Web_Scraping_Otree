@@ -11,10 +11,10 @@ bs4
 # Files
 
     """
-    esta función extrae valores en función a  las etiquetas y retorna una dataframe
+    esta función extrae valores asociados a etiquetas y retorna un dataframe
     
     input: nombre de archivo etiquetas  ( nombre archivo )  y nombre de archivo  csv data
-    output: tabla de comprobacion valores scraping,  valores data csv, comparacion
+    output: tabla de comprobacion valores scraping,  valores data csv, comparación
     """*
 ## Parámetros de entrada
 void
